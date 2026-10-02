@@ -1,4 +1,6 @@
-หิวข้าว
-อร่อย
-ฤกษ์อีส
-ฤกษ์ดี
+วิธีupload
+git init
+git add .
+git branch -M main
+git remote add origin https://github.com/GSSun0000/CCTVProject.git
+git push -u origin main
