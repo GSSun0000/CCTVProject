@@ -1,3 +1,4 @@
+วิธีupload เบื้องต้น โหลดGit มาด้วยในCMD
 วิธีupload
 git init
 git add .
